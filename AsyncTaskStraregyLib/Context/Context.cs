@@ -2,12 +2,12 @@
 
 public class Context
 {
-    private IStrategy _strategy;
+    private IUserApi _userApi;
 
 
-    public Context(IStrategy strategy)
+    public Context(IUserApi userApi)
     {
-        _strategy = strategy;
+        _userApi = userApi;
     }
     
     /*public */

@@ -1,6 +1,6 @@
 ﻿namespace AsyncTaskStraregyLib;
 
-public class GetDummyjson : IStrategy
+public class FakeApi : IUserApi
 {
     
 }

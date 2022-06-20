@@ -1,6 +1,6 @@
 ﻿namespace AsyncTaskStraregyLib;
 
-public class GetFakeApi : IStrategy
+public interface IUserApi
 {
     
 }
